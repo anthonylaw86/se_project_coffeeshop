@@ -20,7 +20,7 @@
 }
 
 .about__title {
-  font-family: Inter, sans-serif, arial;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -36,7 +36,7 @@
 
 .about__content {
   list-style-type: none;
-  font-family: Noto Serif, serif, times new roman;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

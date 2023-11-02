@@ -11,7 +11,7 @@
   max-width: 780px;
   text-align: center;
   margin: 0 auto 24px;
-  font-family: Inter, sans-serif, arial;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -22,7 +22,7 @@
   text-align: center;
   max-width: 780px;
   margin: 0 auto 100px;
-  font-family: Noto Serif, serif, times new roman;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
