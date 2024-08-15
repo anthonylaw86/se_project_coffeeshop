@@ -13,4 +13,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here : As I'm new to software engineering, I don't have many idea's. I think for a second project it gives a good group of new skills to apply. I think the color layout is basic but classy. It's nice.
+Would love to hear any ideas, feel free to add them.
+
+## Page Link
+
+https://anthonylaw86.github.io/se_project_coffeeshop/
